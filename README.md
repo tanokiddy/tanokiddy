@@ -7,17 +7,19 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 
 **About me**
 
-- ❤️ An inquisitive person and passionate for programming.
+- 🔥 An inquisitive person and passionate for programming.
+
+- ❤️ Usually work with Next.js, React.js, Typescript...
   
-- 💼 ex-FrontEnd Developer at <a href="https://coccoc.com/en">CocCoc Company Ltd <img src="https://coccoc.com/assets/images/logo.svg" alt="Coccoc logo" width="auto" height="16"/></a>
+- 💼 Ex-FrontEnd Developer at <a href="https://coccoc.com/en">CocCoc Company Ltd <img src="https://coccoc.com/assets/images/logo.svg" alt="Coccoc logo" width="auto" height="16"/></a>
 
 - 💬 Ask me about anything [here](https://github.com/tanokiddy/tanokiddy/issues)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="javascript icon" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript icon" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react icon" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nextjs icon" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
+<code><img height="20" alt="nodejs icon" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/kil.kiddy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/tanokiddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quang-nguyen-frontend-developer/) 
@@ -60,7 +62,7 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)&nbsp;
 # 📊 GitHub Stats :
 
-<p align="left" style="display: flex">
+<p align="left" style="display: flex; flex-wrap: wrap">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanokiddy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanokiddy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
