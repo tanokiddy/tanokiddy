@@ -60,11 +60,11 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)&nbsp;
 # 📊 GitHub Stats :
 
-<p align="left">
+<p align="left" style="display: flex">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanokiddy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanokiddy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
-<b>Note:</b> Top Languages does not indicate the my skill level or anything like that; it's just a GitHub metric to determine which languages have the most code on my GitHub.
+  <b>Note:</b> Top Languages does not indicate the my skill level or anything like that; it's just a GitHub metric to determine which languages have the most code on my GitHub.
 </p>
  
 <a href="https://github.com/tanokiddy/CC_CareersSite/">
