@@ -67,7 +67,7 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanokiddy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
   <b>Note:</b> Top Languages does not indicate the my skill level or anything like that; it's just a GitHub metric to determine which languages have the most code on my GitHub.
-</p>
+</p> 
  
 <a href="https://github.com/tanokiddy/CC_CareersSite/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
