@@ -65,7 +65,7 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 # 📊 GitHub Stats :
 
 <p align="left">
-  <img height="230em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanokiddy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&count_private=true&theme=radical&hide=hide_rank&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="230em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanokiddy&show_icons=true&count_private=true&theme=radical&hide=hide_rank&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <img height="230em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanokiddy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <br>
   <b>Note:</b> Top Languages does not indicate the my skill level or anything like that; it's just a GitHub metric to determine which languages have the most code on my GitHub.
