@@ -22,16 +22,6 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 <code><img height="20" alt="nodejs icon" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 ## 🌐 Socials
-<a href="https://facebook.com/tanokiddy" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="fb.com/tanokiddy"/>
-</a>
-<a href="https://instagram.com/tanokiddy" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram.com/tanokiddy"/>
-</a>
-<a href="https://linkedin.com/in/quang-nguyen-frontend-developer" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="quang-nguyen-frontend-developer"/>
-</a>
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanokiddy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanokiddy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quang-nguyen-frontend-developer/) 
