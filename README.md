@@ -70,19 +70,21 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
   <br>
   <b>Note:</b> Top Languages does not indicate the my skill level or anything like that; it's just a GitHub metric to determine which languages have the most code on my GitHub.
 </p>
- 
-<a href="https://github.com/tanokiddy/CC_CareersSite/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=CC_CareersSite&theme=radical" />
-</a>
-<a href="https://github.com/tanokiddy/Ads-Campaign-Management">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=Ads-Campaign-Management&theme=radical" />
-</a>
-<a href="https://github.com/tanokiddy/Memory-Card-Game">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=Memory-Card-Game&theme=radical" />
-</a>
+
+<p align="left">
+  <a href="https://github.com/tanokiddy/CC_CareersSite/">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=CC_CareersSite&theme=radical" />
+  </a>
+  <a href="https://github.com/tanokiddy/Ads-Campaign-Management">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=Ads-Campaign-Management&theme=radical" />
+  </a>
+  <a href="https://github.com/tanokiddy/Memory-Card-Game">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=Memory-Card-Game&theme=radical" />
+  </a>
+</p>
 
 
 
