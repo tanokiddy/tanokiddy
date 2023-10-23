@@ -22,7 +22,7 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 <code><img height="20" alt="nodejs icon" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/kil.kiddy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/tanokiddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quang-nguyen-frontend-developer/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kil.kiddy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanokiddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quang-nguyen-frontend-developer/) 
 
 # 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
@@ -63,8 +63,8 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 # 📊 GitHub Stats :
 
 <p align="left">
-  <img height="190em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanokiddy&show_icons=true&count_private=true&theme=radical&hide=hide_rank&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanokiddy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="230em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanokiddy&show_icons=true&count_private=true&theme=radical&hide=hide_rank&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="230em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanokiddy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
   <b>Note:</b> Top Languages does not indicate the my skill level or anything like that; it's just a GitHub metric to determine which languages have the most code on my GitHub.
 </p> 
@@ -72,7 +72,16 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 <a href="https://github.com/tanokiddy/CC_CareersSite/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=CC_CareersSite&theme=radical" />
-</a>    
+</a>
+<a href="https://github.com/tanokiddy/Ads-Campaign-Management">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=Ads-Campaign-Management&theme=radical" />
+</a>
+<a href="https://github.com/tanokiddy/Memory-Card-Game">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tanokiddy&repo=Memory-Card-Game&theme=radical" />
+</a>
+
 
 
 ### ✍️ Random Dev Quote
