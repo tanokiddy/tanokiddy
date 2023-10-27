@@ -73,13 +73,13 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 
 <p align="left">
   <a href="https://github.com/tanokiddy/CC_CareersSite/">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=CC_CareersSite&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=CC_CareersSite&theme=radical" />
   </a>
   <a href="https://github.com/tanokiddy/Ads-Campaign-Management">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Ads-Campaign-Management&theme=merko" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Ads-Campaign-Management&theme=merko" />
   </a>
   <a href="https://github.com/tanokiddy/Memory-Card-Game">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Memory-Card-Game&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Memory-Card-Game&theme=gruvbox" />
   </a>
 </p>
 
