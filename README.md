@@ -72,14 +72,14 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 </p>
 
 <p align="left">
-  <a height="150" href="https://github.com/tanokiddy/CC_CareersSite/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=CC_CareersSite&theme=radical" />
+  <a href="https://github.com/tanokiddy/CC_CareersSite/">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=CC_CareersSite&theme=radical" />
   </a>
-  <a height="150" href="https://github.com/tanokiddy/Ads-Campaign-Management">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Ads-Campaign-Management&theme=merko" />
+  <a href="https://github.com/tanokiddy/Ads-Campaign-Management">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Ads-Campaign-Management&theme=merko" />
   </a>
-  <a height="150" href="https://github.com/tanokiddy/Memory-Card-Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Memory-Card-Game&theme=gruvbox" />
+  <a href="https://github.com/tanokiddy/Memory-Card-Game">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanokiddy&repo=Memory-Card-Game&theme=gruvbox" />
   </a>
 </p>
 
