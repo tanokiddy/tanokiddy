@@ -11,7 +11,7 @@ I'm a self-taught passionate FrontEnd Developer from Vietnam 🇻🇳
 
 - ❤️ Usually work with Next.js, React.js, Typescript...
   
-- 💼 Ex-Frontend Developer at <a href="https://coccoc.com/en" target="_blank">CocCoc Company Ltd <img src="https://coccoc.com/assets/images/logo.svg" alt="Coccoc logo" width="auto" height="16"/></a>
+- 💼 Software Engineer, Front-end at <a href="https://coccoc.com/en" target="_blank">CocCoc Company Ltd <img src="https://coccoc.com/assets/images/logo.svg" alt="Coccoc logo" width="auto" height="16"/></a>
 
 - 💬 Ask me about anything [here](https://github.com/tanokiddy/tanokiddy/issues)
 
